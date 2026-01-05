@@ -14,7 +14,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 dineshfurious1001@gmail.com  
+- 📧 dineshpalika14@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dinesh-palika/)
 
 
