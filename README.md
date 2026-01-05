@@ -15,7 +15,7 @@
 ## 📫 Let's Connect
 
 - 📧 dineshfurious1001@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/palika-dinesh-b44354338)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dinesh-palika/)
 
 
 “The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
