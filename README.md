@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Dinesh Palika
 
-<!--
-**dineshpalika14/dineshpalika14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. Artificial Intelligence Student** at Aditya Degree College  
+💡 **Aspiring AI Engineer** | Passionate about Machine Learning, Data Analytics & Python  
+📍 Based in Kakinada, Andhra Pradesh, India
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, SQL  
+- **AI/ML:** Scikit-learn, Pandas, NumPy  
+- **Visualization:** Power BI, Matplotlib, Seaborn  
+- **Tools:** Jupyter Notebook, Git, VS Code
+
+
+## 📫 Let's Connect
+
+- 📧 dineshfurious1001@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/palika-dinesh-b44354338)
+
+
+“The future belongs to those who learn more skills and combine them in creative ways.” – Robert Greene
